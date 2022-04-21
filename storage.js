@@ -80,53 +80,53 @@ export let tracks = [
                         id: '09'
                     },
             
-                    // {
-                    //     audioSrc: "https://drive.google.com/uc?export=download&id=1iyZnRXr2FG5h1taiHZrpUbS9K0vTr9TO",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Aalu-Imran (2)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '10'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1iyZnRXr2FG5h1taiHZrpUbS9K0vTr9TO",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Aalu-Imran (2)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '10'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/003-aalu-imran-3.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Aalu-Imran (3)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '11'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=16uZlK_EkJuFq3i2eUj9OWOVQrEM_bpt2",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Aalu-Imran (3)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '11'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/003-aalu-imran-4.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Aalu-Imran (4)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '12'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1cefVC2I634aKllD1iB4i4AYsa-kptJBr",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Aalu-Imran (4)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '12'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/003-aalu-imran-5.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Aalu-Imran (5)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '13'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1053SWk4QmsjTaYqG7Tz1bWXiKjJCYofv",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Aalu-Imran (5)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '13'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/004-an-nisa-1.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nisa (1)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '14'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1WcNRaSlkSha9hmz4e5tnvgLs_4xKn7Di",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nisa (1)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '14'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/004-an-nisa-2.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nisa (2)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '15'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1Qi2ds_g4OdKMYU3jcOiUIbEFPVcp2ZrP",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nisa (2)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '15'
+                    },
             
                     // {
                     //     audioSrc: "./tracks/004-an-nisa-3.mp3",
