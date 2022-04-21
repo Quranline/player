@@ -17,11 +17,11 @@ body {
     }
 
     25% {
-        opacity: 0.4;
+        opacity: 0.2;
     }
 
     50% {
-        opacity: 0.9;
+        opacity: 0.6;
     }
 
     100% {

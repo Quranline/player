@@ -323,7 +323,7 @@ export let tracks = [
                     {
                         audioSrc: "https://drive.google.com/uc?export=download&id=1qlEiud1EvZv__MWK3X-b-o47tghQIBaG",
                         coverSrc: './images/reciter/mishary.jpg',
-                        name: "Surah Yunus-1 ",
+                        name: "Surah Yunus (1) ",
                         desc: 'Mishary bin Rashid Alafasy',
                         id: '40'
                     },
@@ -331,7 +331,7 @@ export let tracks = [
                     {
                         audioSrc: "https://drive.google.com/uc?export=download&id=1eXojxhNZsxR8HHkhRT3_CMxGZnSS189w",
                         coverSrc: './images/reciter/mishary.jpg',
-                        name: "Surah Yunus-2 ",
+                        name: "Surah Yunus (2) ",
                         desc: 'Mishary bin Rashid Alafasy',
                         id: '41'
                     },
@@ -339,7 +339,7 @@ export let tracks = [
                     {
                         audioSrc: "https://drive.google.com/uc?export=download&id=1RXlA7k3ODF9EHHMfdRgHQrdctsqWpB9Y",
                         coverSrc: './images/reciter/mishary.jpg',
-                        name: "Surah Yunus-3 ",
+                        name: "Surah Yunus (3) ",
                         desc: 'Mishary bin Rashid Alafasy',
                         id: '42'
                     },
