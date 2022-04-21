@@ -9,6 +9,24 @@
 body {
     background-color: #000000;
     margin: 10px;
+    animation: myAnimatemain 5s;
+}
+@keyframes myAnimatemain {
+    0% {
+        opacity: 0.1;
+    }
+
+    25% {
+        opacity: 0.4;
+    }
+
+    50% {
+        opacity: 0.9;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 /* --------------------------------------- */
@@ -336,7 +354,7 @@ footer {
 ol#more {
     position: absolute;
     top: 5%;
-    background: white;
+    background: rgb(172, 162, 162);
     right: 40px;
     width: 40%;
     padding: 0px;
