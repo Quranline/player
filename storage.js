@@ -128,85 +128,85 @@ export let tracks = [
                         id: '15'
                     },
             
-                    // {
-                    //     audioSrc: "./tracks/004-an-nisa-3.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nisa (3)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '16'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1-MuHEDyoW6IpOUkgPSQ2NKMJDuPIqF6o",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nisa (3)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '16'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/004-an-nisa-4.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nisa (4)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '17'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1zZKxEQw1aJYh1r_EDPdE1SWlrCvoExpi",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nisa (4)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '17'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/004-an-nisa-5.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nisa (5)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '18'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1eezVYbvhrTsx95eMAO77y7ZcgGGBo3cf",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nisa (5)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '18'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/005-al-ma'idah-1.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ma'idah (1)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '19'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/file/d/1hBjr5bJanFmSCq8D9kKPwXWn3AUnLgAg/view?usp=sharing",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ma'idah (1)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '19'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/005-al-ma'idah-2.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ma'idah (2)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '20'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/file/d/1nposyD4voPx2aX_c_M-BFljM40vqrC8W/view?usp=sharing",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ma'idah (2)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '20'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/005-al-ma'idah-3.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ma'idah (3)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '21'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=10y9ps1j47uhveKmB9H1NnxtfajnSolxN",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ma'idah (3)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '21'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/005-al-ma'idah-4.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ma'idah (4)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '22'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1ox7Qh18WYIyG0rHDxVHQVijVPrsUp9QL",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ma'idah (4)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '22'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/006-al-an'am-1.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-An'am (1)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '23'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1jMlfYWMUWivdXJUu0KHB8XoDBiUfjDD-",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-An'am (1)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '23'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/006-al-an'am-2.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-An'am (2)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '24'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1f6yXaG04yvERnp1s8bSwnTjUq2M7MIp8",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-An'am (2)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '24'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/006-al-an'am-3.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-An'am (3)",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '25'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1k0X-SDM5T-_BiQ3H4Vz2r3nZwDfDnbuY",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-An'am (3)",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '25'
+                    },
             
                     // {
                     //     audioSrc: "./tracks/006-al-an'am-4.mp3",
