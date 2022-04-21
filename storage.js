@@ -81,7 +81,7 @@ export let tracks = [
                     },
             
                     // {
-                    //     audioSrc: "./tracks/003-aalu-imran-2.mp3",
+                    //     audioSrc: "https://drive.google.com/uc?export=download&id=1iyZnRXr2FG5h1taiHZrpUbS9K0vTr9TO",
                     //     coverSrc: './images/reciter/mishary.jpg',
                     //     name: "Surah Aalu-Imran (2)",
                     //     desc: 'Mishary bin Rashid Alafasy',

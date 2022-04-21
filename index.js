@@ -18,6 +18,8 @@ const autoplay =  document.getElementById('auto-Play');
 let input = document.querySelector('#input-value');
 let search = document.querySelector('.search-div button');
 
+let footer = document.querySelector("footer");
+
 trackDuration.innerHTML = '--:--';
 // let globeSearchposition = globe;
 
@@ -324,6 +326,9 @@ document.addEventListener('DOMContentLoaded', () => {
             li.addEventListener(
                 'click', () => {
                     playSelectedTrack(id);
+                    
+                    footer.style.visibility="visible";
+
                 },
                 false
             );

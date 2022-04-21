@@ -209,6 +209,7 @@ ul {
 
 
 footer {
+    visibility: hidden;
     background-color: #3e3636;
     position: sticky;
     bottom: 0vh;
