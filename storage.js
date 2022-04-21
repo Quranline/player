@@ -1,7 +1,7 @@
 export let tracks = [
     
                     {
-                        audioSrc: "./tracks/001-al-fatihah.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1lFx_ptmgsWZe6rW3cWW1mW_wBVOPTtXr",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Fatihah ",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -9,7 +9,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-1.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1F0oQYJGVvr_9Ga6wg8AUlUmAhlEvZ5gT",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (1)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -17,7 +17,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-2.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1PKMhdVm76-dLlI-HwCJDn6GaOuGHNqVP",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (2)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -25,7 +25,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-3.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1nLOn-vcl3v96x4j2bPTG07REY75_weKp",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (3)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -33,7 +33,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-4.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1yBK3BvaMYYAJeW-Qwiz-lzSFT47lDaHV",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (4)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -41,7 +41,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-5.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1GejcRZ19t6LXvc6V2UX_B79zKbhS22wi",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (5)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -49,7 +49,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-6.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1S6SP_5pwMu95-Lg9dH7FbOHttazXxt1v",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (6)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -57,7 +57,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-7.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1sSx17aT3ny14p1CtpTfmdWBla2kL3xaR",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (7)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -65,7 +65,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/002-al-baqarah-8.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1F21cKjEvDkC5ZdWbBoJYA-nTcTnEqKrL",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (8)",
                         desc: 'Mishary bin Rashid Alafasy',
@@ -73,7 +73,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "./tracks/003-aalu-imran-1.mp3",
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1IoVG33OFOIt8lEvIJrykAjmdBfdGYh5x",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Aalu-Imran (1)",
                         desc: 'Mishary bin Rashid Alafasy',
