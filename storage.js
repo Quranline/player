@@ -1008,268 +1008,274 @@ export let tracks = [
                         id: '125'
                     },
             
-                    // {
-                    //     audioSrc: "./tracks/081-at-takwir.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah At-Takwir ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '126'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1BCu3WbLlaio3LD03NhhwSCVAEp1nYyAu",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah At-Takwir ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '126'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/082-al-infitar.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Infitar ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '127'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1QvQl-kxZlPrh3eXgmclXib5mIvzw6m_0",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Infitar ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '127'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/083-al-mutaffifin.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Mutaffifin ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '128'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=16KMPk6xa_DUFWxaZ0kvXRF5FVYPF4Vtx",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Mutaffifin ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '128'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/084-al-inshiqaq.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Inshiqaq ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '129'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1jpBuaelau3DAmmQqIrAFe20W9Ipj6cJ8",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Inshiqaq ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '129'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/085-al-buruj.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Buruj ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '130'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1RMnnT97g4THtZCAOIe0ZE2iMYrKbhvq4",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Buruj ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '130'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/086-at-taariq.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah At-Taariq ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '131'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1CM6YHl1CipL85TvU5SmaWhlMbfktXwof",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah At-Taariq ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '131'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/087-al-a'la.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-A'la ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '132'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1S_Qxx86DesyAHDk2bNPq1qRxMNCyM_Jv",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-A'la ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '132'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/088-al-ghashiyah.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ghashiyah ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '133'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1EalRaIAS3wC3Jt46mopbrTVN4QJucM_C",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ghashiyah ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '133'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/089-al-fajr.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Fajr ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '134'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1sdvryJumbhJgyc8qZI4jHke7DqLV6lDL",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Fajr ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '134'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/090-al-balad.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Balad ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '135'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=12H5Rmq3UVqA4-qUIa7UWCGZ7gBHxmSxQ",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Balad ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '135'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/091-ash-shams.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Ash-Shams ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '136'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1gZB6vosknkU0i2Krsx8YjZgDgf2aDbpF",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Ash-Shams ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '136'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/092-al-layl.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Layl ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '137'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1J7VaBIQ-mKG64Y24p2UgZ26Nx_grQQAt",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Layl ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '137'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/093-ad-duha.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Ad-Duha ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '138'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1VvNdXrh70KvkTZCXroxZTwmQIuz0NlZa",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Ad-Duha ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '138'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/094-ash-sharh.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Ash-Sharh ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '139'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1kgNnc1DUgvD14zeP3gKozgqc8UcwQNlE",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Ash-Sharh ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '139'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/095-at-tin.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah At-Tin ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '140'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1OatQzPHmwD9UubxVjvs5T_gGsZ57Wy2r",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah At-Tin ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '140'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/096-al-alaq.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Alaq ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '141'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1dxj4JGoIxEnEWIa1ofrxmB5RWXFayTHL",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Alaq ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '141'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/097-al-qadr.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Qadr ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '142'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1C803LML30xztMyJxpTyAn-dOORsmhPWc",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Qadr ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '142'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/098-al-baiyyinah.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Baiyyinah ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '143'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1pF4stwCQujbbL9b3OfvVCfowGtQlLMKn",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Baiyyinah ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '143'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/099-az-zalzalah.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Az-Zalzalah ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '144'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1uYH6u4BNcag6O9Bl9PayxLntmwusI4hw",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Az-Zalzalah ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '144'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/100-al-aadiyat.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Aadiyat ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '145'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1mzEAQyqNHrNWw2xv780ssfZqteqEtiIS",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Aadiyat ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '145'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/101-al-qaariah.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Qaariah ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '146'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1y20lFhLopRtRSy47_7RItDGdBoCzcsOh",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Qaariah ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '146'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/102-at-takaathur.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah At-Takaathur ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '147'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1Nm1B3vHalPIZkoo8qX_NRLFfixcKgERK",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah At-Takaathur ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '147'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/103-al-asr.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Asr ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '148'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1wiZe419LfGiBBdAYAtXXPfIplOAa9aYR",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Asr ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '148'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/104-al-humazah.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Humazah ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '149'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1fMBDC4TpqJ1_NZq0iaHgKesAJEy7Wha_",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Humazah ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '149'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/105-al-feel.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Feel ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '150'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1L6ymbdHpziAcalNp8kg-uX1yu-SPvLFn",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Feel ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '150'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/106-al-quraish.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Quraish ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '151'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1AhiszqZBEWqPYNwhF4aa2EDn_qO-M_wV",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Quraish ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '151'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/107-al-maun.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Maun ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '152'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1fZ3Wh3wGbnP9adhqqK2K-qcKUD1J47aI",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Maun ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '152'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/108-al-kawthar.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Kawthar ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '153'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1XRUPOmcmd4Mp78vOK2JZW20CjuOhk7E-",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Kawthar ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '153'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/109-al-kafirun.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Kafirun ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '154'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1cWsbcvUwwVlYvU5tEaB_-cDR8J6dNfK7",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Kafirun ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '154'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/110-an-nasr.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah An-Nasr ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '155'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=11xQD4vrNZun_1e-nmtc2stKIveY1yet9",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Nasr ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '155'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/111-al-masad.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Masad ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '156'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1szjgSuxqJANnnjc9EswaHeI_Rz8KMda-",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Masad ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '156'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/112-al-ikhlaas.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Ikhlaas ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '157'
-                    // },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1ghJ2qZ0ZyqvXo1O-WkQlsmMyyb8Y3mMC",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Ikhlaas ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '157'
+                    },
             
-                    // {
-                    //     audioSrc: "./tracks/113-al-falaq.mp3",
-                    //     coverSrc: './images/reciter/mishary.jpg',
-                    //     name: "Surah Al-Falaq ",
-                    //     desc: 'Mishary bin Rashid Alafasy',
-                    //     id: '158'
-                    // },
-                
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=15A2GzIWZrexiXkkjLCiSEcPLrITHJ8sF",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah Al-Falaq ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '158'
+                    },
+                    {
+                        audioSrc: "https://drive.google.com/uc?export=download&id=1KmxWkhR6jsMcbSh7sO0yGMJ5nLStt1Mj",
+                        coverSrc: './images/reciter/mishary.jpg',
+                        name: "Surah An-Naas ",
+                        desc: 'Mishary bin Rashid Alafasy',
+                        id: '159'
+                    }
                     ];
