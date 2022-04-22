@@ -356,7 +356,7 @@ ol#more {
     top: 5%;
     background: rgb(172, 162, 162);
     right: 40px;
-    width: 40%;
+    width:50%;
     padding: 0px;
     border-radius: 10px 0px 10px 10px;
     transition: max-height 0.8s;
