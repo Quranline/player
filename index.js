@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
    
    
     autoPlay()
-
+    
     function autoPlay() {
 
         autoplay.addEventListener('change', e => {
@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', () => {
         li.style = 'cursor:pointer';
         li.innerHTML = `
                             <div class="mini-container">
-                            <div class="row hrStyle">
+                            <div class="row hrStyle" id="rowtargeted">
                                 <div class="col-1">
                                     <span class="track-numberv">${trackedValue.id}</span>
                                     <img src=${trackedValue.coverSrc} alt="track-image" class="track-image" />
@@ -316,7 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <p class="track-deta-name">${trackedValue.name}</p>
                                     <p class="track-deta-desc"><small>${trackedValue.desc}</small></p>
                                     
-
+                                      
                                 </div>
                             </div>
                         </div> `;
@@ -334,9 +334,6 @@ document.addEventListener('DOMContentLoaded', () => {
             );
         })(trackedValue.id);
     }
-
-
-
 
 
 
@@ -590,7 +587,7 @@ let anchor = document.getElementsByClassName("anchor");
 
 for (let i = 0; i < anchor.length; i++) {
 
-    anchor[i].style.opacity = "0";
+    anchor[i].style.display="none";
 }
 menu.style.maxHeight = "0px";
 
@@ -601,7 +598,7 @@ function toggleMenu() {
     if (menu.style.maxHeight == "0px") {
         menu.style.maxHeight = "200px";
         for (let i = 0; i < anchor.length; i++) {
-            anchor[i].style.opacity = "1";
+            anchor[i].style.display="";
             anchor[i].style.color = "black";
         }
 
@@ -609,7 +606,7 @@ function toggleMenu() {
 
         menu.style.maxHeight = "0px"
         for (let i = 0; i < anchor.length; i++) {
-            anchor[i].style.opacity = "0";
+            anchor[i].style.display="none";
             anchor[i].style.color = "black";
         }
     }
