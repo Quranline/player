@@ -1271,5 +1271,12 @@ export let tracks = [
                     desc: "Mishary bin Rashid Alafasy",
                     id: "158"
                 },
+                {
+                    audioSrc: "https://quranline.github.io/quran_audio/114-an-nas.mp3",
+                    coverSrc: "./images/reciter/mishary.jpg",
+                    name: "Surah An-Naas ",
+                    desc: "Mishary bin Rashid Alafasy",
+                    id: "159"
+                },
             
                 ];
