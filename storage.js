@@ -9,7 +9,7 @@ export let tracks = [
                     },
             
                     {
-                        audioSrc: "https://drive.google.com/uc?export=download&id=1F0oQYJGVvr_9Ga6wg8AUlUmAhlEvZ5gT",
+                        audioSrc: "./tracks/002-al-baqarah-1.mp3",
                         coverSrc: './images/reciter/mishary.jpg',
                         name: "Surah Al-Baqarah (1)",
                         desc: 'Mishary bin Rashid Alafasy',
