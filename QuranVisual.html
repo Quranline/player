@@ -17,13 +17,13 @@
 
     <div class="container">
 
-        <span class="video-span"><iframe width="350" height="300" src="https://www.youtube.com/embed/FjdWBKF2VGY"
+        <div class="video-div"><iframe  src="https://www.youtube.com/embed/FjdWBKF2VGY"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
-            <h3>surah name</h3>
-            <h5>resiter name</h5>
-        </span>
+            <p class="surah-name">surah name</p>
+            <p class="surah-reciter">surah reciter</p>
+        </div>
 
 
     </div>
@@ -38,17 +38,26 @@
             justify-content: space-between;
         }
 
-        .video-span {
+        .video-div {
             height: 350px;
             border-radius: 10px 10px 30px 30px;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            line-height: 5px;
+            width:400px;
         }
 
-        .video-span:hover {
+        .video-div:hover {
             box-shadow: 0px 0px 30px rgb(102, 101, 101);
         }
-        h3{
-            position:sticky;
-            top:0px;
+        iframe{
+            padding: 0px;
+            height: 250px;
+            width: 250px;
+        }
+        .surah-name{
+            font-size: 20px;
         }
 
     </style>
