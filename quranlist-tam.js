@@ -139,7 +139,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/004-an-nisa-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துன்னிஸாவு <br> (பெண்கள்) 4",
+        name: "ஸூரத்துன்னிஸாவு (பெண்கள்) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "17"
     },
@@ -147,7 +147,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/004-an-nisa-5.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துன்னிஸாவு  (பெண்கள்) 5",
+        name: "ஸூரத்துன்னிஸாவு (பெண்கள்) 5",
         desc: "Mishary bin Rashid Alafasy",
         id: "18"
     },
@@ -683,7 +683,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/040--ghafir.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Ghafir ",
+        name: "	ஸூரத்துல் முஃமின் (ஈமான் கொண்டவர்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "85"
     },
@@ -691,7 +691,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/041--fussilat.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Fussilat ",
+        name: "ஸூரத்து ஹாமீம் ஸஜ்தா",
         desc: "Mishary bin Rashid Alafasy",
         id: "86"
     },
@@ -1251,7 +1251,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/111-al-masad.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Masad ",
+        name: "ஸூரத்துல் லஹப் (ஜுவாலை)",
         desc: "Mishary bin Rashid Alafasy",
         id: "156"
     },
