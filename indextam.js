@@ -1,5 +1,4 @@
-import { tracks } from './quranlist-eng.js';
-
+import { tracks } from './quranlist-tam.js';
 // ----------------variables---------------
 const currentTrackImage = document.querySelector('header img');
 const currentTrackName = document.querySelector('header h2');
@@ -23,10 +22,7 @@ let search = document.querySelector('.search-div button');
 let footer = document.querySelector("footer");
 
 trackDuration.innerHTML = '--:--';
-
-
 // ----------------variables---------------
-
 
 document.addEventListener('DOMContentLoaded', () => {
    function test(){
@@ -35,7 +31,10 @@ document.addEventListener('DOMContentLoaded', () => {
    }
    
    
+   
+   
     autoPlay()
+    
     function autoPlay() {
 
         autoplay.addEventListener('change', e => {
@@ -197,6 +196,10 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
 
         closeTrigger()
+
+        // document.querySelector('.theme-select').addEventListener('click',() => {
+        //     console.log('working');
+        //     });
         selectTheme()
     })
 
@@ -325,6 +328,19 @@ document.addEventListener('DOMContentLoaded', () => {
         })(trackedValue.id);
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     let tracklist = tracks;
 
     // adding playlist to page
@@ -449,8 +465,18 @@ document.addEventListener('DOMContentLoaded', () => {
         let trackDurationValue = currentTrackAudio.duration;
 
         const percent = (currentTimingValue / trackDurationValue) * 100;
+        // console.log(percent);
         progress.style.width = percent + '%';
 
+
+
+        // autoplay.addEventListener('change', a => {
+        //     if (a.target.checked) {
+          
+        //         text = 1 ;
+           
+        //     }
+        // })
 
         if (percent == 100) {
 
@@ -460,6 +486,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 nextTrack();
             }
         }
+        // console.log("check 2",text);
+    
+
+
+
+
+
 
         let curMin = Math.floor(currentTimingValue / 60);
         let curSecs = Math.floor(currentTimingValue - curMin * 60);
@@ -480,6 +513,7 @@ document.addEventListener('DOMContentLoaded', () => {
             durSecs = `0${durSecs}`;
         }
 
+        // currentTiming.innerText =  Math.round(currentTimingValue);
         currentTiming.innerText = `${curMin}:${curSecs}`;
         let audioDuration = getAudioDuration();
 
