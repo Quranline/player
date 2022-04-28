@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded', () => {
         li.id = trackedValue.id;
         li.style = 'cursor:pointer';
         li.innerHTML = `
-                            <div class="mini-container">
+                            <div class="mini-container-tam">
                             <div class="row hrStyle" id="rowtargeted">
                                 <div class="col-1">
                                     <span class="track-numberv">${trackedValue.id}</span>

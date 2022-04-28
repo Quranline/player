@@ -779,6 +779,9 @@ ol>li>a {
 
 
 
+
+/* tamil page */
+
 .language {
     font-size: 30px;
     color: white;
@@ -786,4 +789,7 @@ ol>li>a {
     border: none;
     position: absolute;
     top: 5px;
+}
+.mini-container-tam .track-deta-name{
+ font-size: 12px;
 }
