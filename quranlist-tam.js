@@ -619,7 +619,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/033-al-ahzab-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ahzab (1)",
+        name: "	ஸூரத்துல் அஹ்ஜாப (சதிகார அணியினர்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "77"
     },
@@ -627,7 +627,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/033-al-ahzab-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ahzab (2)",
+        name: "ஸூரத்துல் அஹ்ஜாப (சதிகார அணியினர்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "78"
     },
@@ -635,7 +635,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/034-as-saba.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah As-Saba ",
+        name: "	ஸூரத்துஸ் ஸபா",
         desc: "Mishary bin Rashid Alafasy",
         id: "79"
     },
@@ -643,7 +643,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/035--faatir.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Faatir ",
+        name: "	ஸூரத்து ஃபாத்திர் (படைப்பவன்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "80"
     },
@@ -651,7 +651,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/036--yaSeen.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -YaSeen ",
+        name: "	ஸூரத்து யாஸீன்",
         desc: "Mishary bin Rashid Alafasy",
         id: "81"
     },
@@ -659,7 +659,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/037-as-saaffaat.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah As-Saaffaat ",
+        name: "	ஸூரத்துஸ் ஸாஃப்ஃபாத் (அணிவகுப்புகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "82"
     },
@@ -667,7 +667,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/038--saad.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Saad ",
+        name: "ஸூரத்து ஸாத்",
         desc: "Mishary bin Rashid Alafasy",
         id: "83"
     },
@@ -675,7 +675,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/039-az-zumar.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Az-Zumar ",
+        name: "	ஸூரத்துஜ்ஜுமர் (கூட்டங்கள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "84"
     },
@@ -699,7 +699,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/042-ash-shura.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ash-Shura ",
+        name: "	ஸூரத்துஷ் ஷூறா (கலந்தாலோசித்தல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "87"
     },
@@ -707,7 +707,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/043-az-zhukhruf.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Az-Zhukhruf ",
+        name: "	ஸூரத்துஜ் ஜுக்ருஃப் (பொன் அலங்காரம்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "88"
     },
@@ -715,7 +715,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/044-ad-dukhaan.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ad-Dukhaan ",
+        name: "ஸூரத்துத் துகான் (புகை)",
         desc: "Mishary bin Rashid Alafasy",
         id: "89"
     },
@@ -723,7 +723,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/045-al-jaathiyah.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Jaathiyah ",
+        name: "	ஸூரத்துல் ஜாஸியா (முழந்தாளிடுதல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "90"
     },
@@ -731,7 +731,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/046-al-ahqaaf.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ahqaaf ",
+        name: "ஸூரத்துல் அஹ்காஃப் (மணல் திட்டுகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "91"
     },
@@ -739,7 +739,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/047--muhammad.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Muhammad ",
+        name: "ஸூரத்து முஹம்மது(ஸல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "92"
     },
@@ -747,7 +747,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/048-al-fath.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Fath ",
+        name: "ஸூரத்துல் ஃபத்ஹ் (வெற்றி)",
         desc: "Mishary bin Rashid Alafasy",
         id: "93"
     },
@@ -755,7 +755,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/049-al-hujuraat.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Hujuraat ",
+        name: "	ஸூரத்துல் ஹுஜுராத் (அறைகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "94"
     },
@@ -763,7 +763,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/050--qaaf.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Qaaf ",
+        name: "ஸூரத்து ஃகாஃப்",
         desc: "Mishary bin Rashid Alafasy",
         id: "95"
     },
@@ -771,7 +771,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/051-adh-dhaariyaat.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Adh-Dhaariyaat ",
+        name: "	ஸூரத்துத் தாரியாத் (புழுதியைக் கிளப்பும் காற்றுகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "96"
     },
@@ -779,7 +779,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/052-at-toor.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah At-Toor ",
+        name: "ஸூரத்துத் தூர் (மலை)",
         desc: "Mishary bin Rashid Alafasy",
         id: "97"
     },
@@ -787,7 +787,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/053-an-najm.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Najm ",
+        name: "	ஸூரத்துந்நஜ்ம் (நட்சத்திரம்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "98"
     },
@@ -795,7 +795,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/054-al-qamar.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Qamar ",
+        name: "	ஸூரத்துல் கமர் (சந்திரன்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "99"
     },
@@ -803,7 +803,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/055-ar-rahman.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ar-Rahman ",
+        name: "ஸூரத்துர் ரஹ்மான் (அளவற்ற அருளாளன்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "100"
     },
@@ -811,7 +811,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/056-al-waqi'ah.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Waqi'ah ",
+        name: "	ஸூரத்துல் வாகிஆ (மாபெரும் நிகழ்ச்சி)",
         desc: "Mishary bin Rashid Alafasy",
         id: "101"
     },
@@ -819,7 +819,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/057-al-hadeed.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Hadeed ",
+        name: "ஸூரத்துல் ஹதீத்(இரும்பு)",
         desc: "Mishary bin Rashid Alafasy",
         id: "102"
     },
@@ -827,7 +827,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/058-al-mujadila.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Mujadila ",
+        name: "ஸூரத்துல் முஜாதலா (தர்க்கித்தல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "103"
     },
