@@ -227,7 +227,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (1)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "28"
     },
@@ -235,7 +235,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (2)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "29"
     },
@@ -243,7 +243,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (3)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "30"
     },
@@ -251,7 +251,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (4)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "31"
     },
@@ -259,7 +259,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-5.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (5)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 5",
         desc: "Mishary bin Rashid Alafasy",
         id: "32"
     },
@@ -267,7 +267,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/007-al-a'raf-6.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-A'raf (6)",
+        name: "ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 6",
         desc: "Mishary bin Rashid Alafasy",
         id: "33"
     },
@@ -275,7 +275,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/008-al-anfal-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Anfal (1)",
+        name: "	ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "34"
     },
@@ -283,7 +283,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/008-al-anfal-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Anfal (2)",
+        name: "ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "35"
     },
@@ -291,7 +291,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/009-at-tawbah-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah At-Tawbah (1)",
+        name: "ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "36"
     },
@@ -299,7 +299,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/009-at-tawbah-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah At-Tawbah (2)",
+        name: "ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "37"
     },
@@ -307,7 +307,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/009-at-tawbah-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah At-Tawbah (3)",
+        name: "ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "38"
     },
@@ -315,7 +315,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/009-at-tawbah-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah At-Tawbah (4)",
+        name: "ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "39"
     },
@@ -323,7 +323,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/010--yunus-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yunus (1)",
+        name: "	ஸூரத்து யூனுஸ் (நபி) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "40"
     },
@@ -331,7 +331,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/010--yunus-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yunus (2)",
+        name: "	ஸூரத்து யூனுஸ் (நபி) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "41"
     },
@@ -339,7 +339,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/010--yunus-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yunus (3)",
+        name: "	ஸூரத்து யூனுஸ் (நபி) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "42"
     },
@@ -347,7 +347,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/011--hud-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Hud (1)",
+        name: "	ஸூரத்து ஹூது 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "43"
     },
@@ -355,7 +355,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/011--hud-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Hud (2)",
+        name: "ஸூரத்து ஹூது 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "44"
     },
@@ -363,7 +363,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/011--hud-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Hud (3)",
+        name: "ஸூரத்து ஹூது 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "45"
     },
@@ -371,7 +371,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/012--yusuf-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yusuf (1)",
+        name: "ஸூரத்து யூஸுஃப் 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "46"
     },
@@ -379,7 +379,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/012--yusuf-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yusuf (2)",
+        name: "ஸூரத்து யூஸுஃப் 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "47"
     },
@@ -387,7 +387,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/012--yusuf-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Yusuf (3)",
+        name: "ஸூரத்து யூஸுஃப் 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "48"
     },
@@ -395,7 +395,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/013-ar-ra'd.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ar-Ra'd ",
+        name: "	ஸூரத்துர் ரஃது (இடி)",
         desc: "Mishary bin Rashid Alafasy",
         id: "49"
     },
@@ -403,7 +403,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/014--ibrahim.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Ibrahim ",
+        name: "	ஸூரத்து இப்ராஹீம்",
         desc: "Mishary bin Rashid Alafasy",
         id: "50"
     },
@@ -411,7 +411,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/015-al-hijr.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Hijr ",
+        name: "ஸூரத்துல் ஹிஜ்ர் (மலைப்பாறை) ",
         desc: "Mishary bin Rashid Alafasy",
         id: "51"
     },
@@ -419,7 +419,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/016-an-nahl-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Nahl (1)",
+        name: "ஸூரத்துந் நஹ்ல் (தேனி) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "52"
     },
@@ -427,7 +427,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/016-an-nahl-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Nahl (2)",
+        name: "ஸூரத்துந் நஹ்ல் (தேனி) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "53"
     },
@@ -435,7 +435,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/016-an-nahl-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Nahl (3)",
+        name: "ஸூரத்துந் நஹ்ல் (தேனி) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "54"
     },
@@ -443,7 +443,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/017-al-isra-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Isra (1)",
+        name: "	பனீ இஸ்ராயீல் (இஸ்ராயீலின் சந்ததிகள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "55"
     },
@@ -451,7 +451,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/017-al-isra-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Isra (2)",
+        name: "பனீ இஸ்ராயீல் (இஸ்ராயீலின் சந்ததிகள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "56"
     },
@@ -459,7 +459,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/018-al-kahf-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Kahf (1)",
+        name: "	ஸூரத்துல் கஹ்ஃபு (குகை) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "57"
     },
@@ -467,7 +467,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/018-al-kahf-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Kahf (2)",
+        name: "	ஸூரத்துல் கஹ்ஃபு (குகை) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "58"
     },
@@ -475,7 +475,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/019--maryam.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Maryam ",
+        name: "	ஸூரத்து மர்யம்",
         desc: "Mishary bin Rashid Alafasy",
         id: "59"
     },
@@ -483,7 +483,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/020--tha haa.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Tha haa ",
+        name: "	ஸூரத்து தாஹா",
         desc: "Mishary bin Rashid Alafasy",
         id: "60"
     },
@@ -491,7 +491,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/021-al-anbiya.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Anbiya ",
+        name: "ஸூரத்துல் அன்பியா (நபிமார்கள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "61"
     },
@@ -499,7 +499,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/022-al-hajj-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Hajj (1)",
+        name: "ஸூரத்துல் ஹஜ் 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "62"
     },
@@ -507,7 +507,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/022-al-hajj-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Hajj (2)",
+        name: "ஸூரத்துல் ஹஜ் 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "63"
     },
@@ -515,7 +515,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/023-al-mu'minun.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Mu'minun ",
+        name: "	ஸூரத்துல் முஃமினூன் (விசுவாசிகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "64"
     },
@@ -523,7 +523,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/024-an-nur-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Nur (1)",
+        name: "	ஸூரத்துந் நூர் (பேரொளி) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "65"
     },
@@ -531,7 +531,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/024-an-nur-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Nur (2)",
+        name: "	ஸூரத்துந் நூர் (பேரொளி) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "66"
     },
@@ -539,7 +539,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/025-al-furqan.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Furqan ",
+        name: "	ஸூரத்துல் ஃபுர்ஃகான் (பிரித்தறிவித்தல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "67"
     },
@@ -547,7 +547,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/026-ash-shu'ara-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ash-Shu'ara (1)",
+        name: "	ஸூரத்துஷ்ஷுஃரா (கவிஞர்கள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "68"
     },
@@ -555,7 +555,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/026-ash-shu'ara-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ash-Shu'ara (2)",
+        name: "ஸூரத்துஷ்ஷுஃரா (கவிஞர்கள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "69"
     },
@@ -563,7 +563,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/027-an-naml.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah An-Naml ",
+        name: "	ஸூரத்துந் நம்லி(எறும்புகள்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "70"
     },
@@ -571,7 +571,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/028-al-qasas-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Qasas (1)",
+        name: "ஸூரத்துல் கஸஸ் (வரலாறுகள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "71"
     },
@@ -579,7 +579,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/028-al-qasas-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Qasas (2)",
+        name: "ஸூரத்துல் கஸஸ் (வரலாறுகள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "72"
     },
@@ -587,7 +587,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/029-al-ankabut.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ankabut ",
+        name: "ஸூரத்துல் அன்கபூத் (சிலந்திப் பூச்சி)",
         desc: "Mishary bin Rashid Alafasy",
         id: "73"
     },
@@ -595,7 +595,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/030-ar-rum.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Ar-Rum ",
+        name: "ஸூரத்துர் ரூம் (ரோமானியப் பேரரசு)",
         desc: "Mishary bin Rashid Alafasy",
         id: "74"
     },
@@ -603,7 +603,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/031--luqman.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah  -Luqman ",
+        name: "ஸூரத்து லுக்மான்",
         desc: "Mishary bin Rashid Alafasy",
         id: "75"
     },
@@ -611,7 +611,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/032-as-sajdah.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah As-Sajdah ",
+        name: "	ஸூரத்துஸ் ஸஜ்தா (சிரம் பணிதல்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "76"
     },
