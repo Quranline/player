@@ -3,7 +3,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/001-al-fatihah.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "அல்ஃபாத்திஹா (தோற்றுவாய்)",
+        name: "அல்ஃபாத்திஹா <br> (தோற்றுவாய்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "00"
     },
@@ -11,7 +11,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 1",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "01"
     },
@@ -19,7 +19,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 2",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "02"
     },
@@ -27,7 +27,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 3",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "03"
     },
@@ -35,7 +35,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 4",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "04"
     },
@@ -43,7 +43,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-5.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 5",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 5",
         desc: "Mishary bin Rashid Alafasy",
         id: "05"
     },
@@ -51,7 +51,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-6.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 6",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 6",
         desc: "Mishary bin Rashid Alafasy",
         id: "06"
     },
@@ -59,7 +59,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-7.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 7",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 7",
         desc: "Mishary bin Rashid Alafasy",
         id: "07"
     },
@@ -67,7 +67,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/002-al-baqarah-8.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "ஸூரத்துல் பகரா (பசு மாடு) 8",
+        name: "ஸூரத்துல் பகரா <br> (பசு மாடு) 8",
         desc: "Mishary bin Rashid Alafasy",
         id: "08"
     },
@@ -75,7 +75,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/003-aalu-imran-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Aalu-Imran (1)",
+        name: "ஸூரத்துல்ஆல இம்ரான் <br> (இம்ரானின் சந்ததிகள்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "09"
     },
@@ -83,7 +83,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/003-aalu-imran-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Aalu-Imran (2)",
+        name: "ஸூரத்துல்ஆல இம்ரான் <br> (இம்ரானின் சந்ததிகள்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "10"
     },
@@ -91,7 +91,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/003-aalu-imran-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Aalu-Imran (3)",
+        name: "ஸூரத்துல்ஆல இம்ரான் <br> (இம்ரானின் சந்ததிகள்) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "11"
     },
@@ -99,7 +99,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/003-aalu-imran-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Aalu-Imran (4)",
+        name: "ஸூரத்துல்ஆல இம்ரான் <br> (இம்ரானின் சந்ததிகள்) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "12"
     },
@@ -107,7 +107,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/003-aalu-imran-5.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Aalu-Imran (5)",
+        name: "ஸூரத்துல்ஆல இம்ரான் <br> (இம்ரானின் சந்ததிகள்) 5",
         desc: "Mishary bin Rashid Alafasy",
         id: "13"
     },
