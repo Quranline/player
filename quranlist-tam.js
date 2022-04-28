@@ -163,7 +163,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/005-al-ma'idah-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ma'idah (2)",
+        name: "ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "20"
     },
@@ -171,7 +171,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/005-al-ma'idah-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ma'idah (3)",
+        name: "ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "21"
     },
@@ -179,7 +179,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/005-al-ma'idah-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Ma'idah (4)",
+        name: "ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "22"
     },
@@ -187,7 +187,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/006-al-an'am-1.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-An'am (1)",
+        name: "	ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 1",
         desc: "Mishary bin Rashid Alafasy",
         id: "23"
     },
@@ -195,7 +195,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/006-al-an'am-2.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-An'am (2)",
+        name: "ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 2",
         desc: "Mishary bin Rashid Alafasy",
         id: "24"
     },
@@ -203,7 +203,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/006-al-an'am-3.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-An'am (3)",
+        name: "ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 3",
         desc: "Mishary bin Rashid Alafasy",
         id: "25"
     },
@@ -211,7 +211,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/006-al-an'am-4.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-An'am (4)",
+        name: "ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 4",
         desc: "Mishary bin Rashid Alafasy",
         id: "26"
     },
@@ -219,7 +219,7 @@ export let tracks = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/006-al-an'am-5.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-An'am (5)",
+        name: "ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 5",
         desc: "Mishary bin Rashid Alafasy",
         id: "27"
     },
