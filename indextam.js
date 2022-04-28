@@ -591,7 +591,7 @@ document.querySelector('img.img-more').addEventListener('click', toggleMenu);
 function toggleMenu() {
 
     if (menu.style.maxHeight == "0px") {
-        menu.style.maxHeight = "200px";
+        menu.style.maxHeight = "300px";
         for (let i = 0; i < anchor.length; i++) {
             anchor[i].style.display="";
             anchor[i].style.color = "black";
