@@ -790,6 +790,10 @@ ol>li>a {
     position: absolute;
     top: 5px;
 }
+
+.mini-container-tam{
+    margin-top:10px;
+}
 .mini-container-tam .track-deta-name{
  font-size: 12px;
 }

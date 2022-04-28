@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.count').style.color = "#fbffa3";
 
 
-
+        document.querySelector('.language').style.background = "#083836";
         document.querySelector('body').style.background = "#083836";
         document.querySelector('.search-div input ').style.background = "#083836";
         document.querySelector('.search-div button').style.background = "#083836";
@@ -81,6 +81,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('header p').style.color = "#c65f63";
         document.querySelector('.small-container').style.color = "#f6e1b8";
         document.querySelector('.count').style.color = "#f6e1b8";
+
+        document.querySelector('.language').style.background = "#333644";
         document.querySelector('.search-div input ').style.background = "#333644";
         document.querySelector('.search-div button').style.background = "#333644";
         document.querySelector('.event').style.color = "#f6e1b8";
@@ -109,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.count').style.color = "#f6e1b8";
 
 
-
+        document.querySelector('.language').style.background = "#001f3f";
         document.querySelector('body').style.background = "#001f3f";
         document.querySelector('.search-div input ').style.background = "#001f3f";
         document.querySelector('.search-div button').style.background = "#001f3f";
@@ -135,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.count').style.color = "#f2f2f2";
 
 
-
+        document.querySelector('.language').style.background = "#222831";
         document.querySelector('body').style.background = "#222831";
         document.querySelector('.search-div input ').style.background = "#222831";
         document.querySelector('.search-div button').style.background = "#222831";
