@@ -1786,5 +1786,1562 @@ export let tharjuma = [
         name: 'ஸூரத்து யூனுஸ் (நபி) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '94'
-    }
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '95'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '96'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '97'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '98'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '99'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0011- -Hudhud 6.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Hudhud 6 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '100'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '101'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '102'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '103'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '104'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '105'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0012- -Yusufjoseph 6.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Yusuf 6 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '106'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0013-Al-radtheThunder 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Radthe 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '107'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0013-Al-radtheThunder 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Radthe 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '108'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0013-Al-radtheThunder 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Radthe 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '109'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0014- -Ibrahimabraham 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ibrahim 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '110'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0014- -Ibrahimabraham 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ibrahim 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '111'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0014- -Ibrahimabraham 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ibrahim 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '112'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0015-Al-hijral-hijrStonelandRockCity 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hijr 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '113'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0015-Al-hijral-hijrStonelandRockCity 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hijr 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '114'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '115'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '116'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '117'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '118'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '119'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0016-An-nahltheBee 6.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nahl 6 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '120'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0017-Al-israisraTheNightJourneyChildrenOfIsrael 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Isra 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '121'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0017-Al-israisraTheNightJourneyChildrenOfIsrael 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Isra 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '122'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0017-Al-israisraTheNightJourneyChildrenOfIsrael 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Isra 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '123'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0017-Al-israisraTheNightJourneyChildrenOfIsrael 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Isra 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '124'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0017-Al-israisraTheNightJourneyChildrenOfIsrael 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Isra 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '125'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0018-Al-kahftheCave 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kahf 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '126'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0018-Al-kahftheCave 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kahf 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '127'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0018-Al-kahftheCave 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kahf 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '128'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0018-Al-kahftheCave 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kahf 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '129'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0018-Al-kahftheCave 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kahf 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '130'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0019- -Maryammary 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Maryam 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '131'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0019- -Maryammary 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Maryam 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '132'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0019- -Maryammary 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Maryam 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '133'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0020- -Ta-hata-ha 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ta-Ha 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '134'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0020- -Ta-hata-ha 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ta-Ha 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '135'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0020- -Ta-hata-ha 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ta-Ha 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '136'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0020- -Ta-hata-ha 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ta-Ha 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '137'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0021 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Anbiya 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '138'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0021 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Anbiya 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '139'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0021 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Anbiya 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '140'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0021 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Anbiya 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '141'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0022 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hajj 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '142'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0022 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hajj  2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '143'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0022 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hajj  3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '144'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0022 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hajj  4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '145'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0023 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muminun 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '146'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0023 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muminun  2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '147'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0023 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muminun  3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '148'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0023 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muminun  4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '149'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0024 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nur 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '150'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0024 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nur  2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '151'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0024 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nur  3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '152'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0024 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nur  4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '153'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0024 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nur  5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '154'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0025 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Furqan 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '155'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0025 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Furqan 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '156'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0025 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Furqan 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '157'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0026 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shaura 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '158'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0026 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shaura 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '159'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0026 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shaura 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '160'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0026 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shaura 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '161'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0026 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shaura 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '162'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0027 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naml 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '163'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0027 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naml 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '164'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0027 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naml 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '165'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0027 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naml 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '166'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0028 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qasas 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '167'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0028 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qasas 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '168'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0028 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qasas 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '169'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0028 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qasas 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '170'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0028 5.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qasas 5 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '171'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0029 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ankabut 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '172'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0029 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ankabut 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '173'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0029 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ankabut 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '174'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0029 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ankabut 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '175'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0030 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ar-Rum 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '176'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0030 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ar-Rum  2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '177'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0030 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ar-Rum  3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '178'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0031 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Luqman 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '179'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0031 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Luqman  2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '180'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0032 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Sajdah 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '181'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0032 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Sajdah 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '182'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0033 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahzab 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '183'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0033 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahzab 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '184'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0033 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahzab 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '185'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0033 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahzab 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '186'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0034 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Saba 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '187'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0034 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Saba 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '188'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0034 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Saba 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '189'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0035 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Fatir 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '190'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0035 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Fatir 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '191'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0036 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ya-Sin 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '192'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0036 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ya-Sin 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '193'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0037 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Saffat 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '194'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0037 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Saffat 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '195'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0037 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Saffat 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '196'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0037 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Saffat 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '197'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0038 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Sad 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '198'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0038 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Sad 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '199'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0038 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Sad 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '200'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0039 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zumar 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '201'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0039 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zumar 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '202'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0039 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zumar 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '203'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0039 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zumar 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '204'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0040 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ghafir 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '205'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0040 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ghafir 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '206'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0040 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ghafir 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '207'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0040 4.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ghafir 4 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '208'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0041 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Fussilat 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '209'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0041 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Fussilat 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '210'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0041 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Fussilat 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '211'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0042 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shuraa 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '212'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0042 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shuraa 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '213'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0042 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shuraa 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '214'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0043 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zukhruf 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '215'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0043 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zukhruf 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '216'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0043 3.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zukhruf 3 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '217'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0044 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ad-Dukhan 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '218'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0044 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ad-Dukhan 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '219'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0045 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Jathiya 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '220'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0045 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Jathiya 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '221'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0046 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahqaf 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '222'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0046 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ahqaf 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '223'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0047 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Muhammad 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '224'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0047 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Muhammad 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '225'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0048 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Fath 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '226'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0048 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Fath 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '227'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0049 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hujurat 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '228'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0049 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hujurat 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '229'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0050 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Qaf 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '230'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0050 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Qaf 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '231'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0051 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Adh-Dhariyat 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '232'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0051 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Adh-Dhariyat 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '233'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0052.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Tur ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '234'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0053.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Najm ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '235'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0054 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qamar 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '236'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0054 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qamar 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '237'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ar-Rahman 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '238'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ar-Rahman 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '239'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0056 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Waqiah 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '240'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0056 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Waqiah 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '241'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0057 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hadid 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '242'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0057 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hadid 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '243'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0058 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mujadila 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '244'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0058 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mujadila 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '245'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0059 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hashr 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '246'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0059 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Hashr 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '247'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0060 1.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mumtahanah 1 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '248'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0060 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mumtahanah 2 ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '249'
+    },
+
+
+
+
+
+
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0061.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah As-Saf  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '250'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0062.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Jumuah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '251'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0063.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Munafiqun  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '252'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0064.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Taghabun  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '253'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0065.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Talaq  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '254'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0066.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Tahrim  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '255'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0067.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mulk  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '256'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0068.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qalam  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '257'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0069.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Haqqah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '258'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0070.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Maarij  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '259'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0071.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Nuh  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '260'
+    },
+
+
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0072.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Jinn  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '261'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0073.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muzammil ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '262'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0074.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Muddaththir  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '263'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0075.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qiyamah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '264'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0076.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Insan  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '265'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0077 2.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mursalat ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '266'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0078.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naba  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '267'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0079.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Naziat  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '268'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0080.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Abasa ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '269'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0081.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Takwir ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '270'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0082.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Infitar  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '271'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0083.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Mutaffin  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '272'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0084.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Inshiqaq ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '273'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0085.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Buruj  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '274'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0086.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Tariq  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '275'
+    },
+
+
+
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0087.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ala  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '276'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0088.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ghashiyah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '277'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0089.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Fajr ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '278'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0090.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Balad  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '279'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0091.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Shams  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '280'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0092.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Layl ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '281'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0093.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ad-Duhaa  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '282'
+    },
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0094.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Ash-Sharh  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '283'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0095.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Tin  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '284'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0096.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Alaq  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '285'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0097.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qadr ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '286'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0098.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Bayyinah ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '287'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0099.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Az-Zalzalah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '288'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0100.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Adiyat  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '289'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0101.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Qariah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '290'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0102.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah At-Takathur  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '291'
+    },
+
+
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0103.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Asr  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '292'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0104.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Humazah  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '293'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0105.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Fil ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '294'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0106.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Quraysh  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '295'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0107.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Maun  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '296'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0108.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kawthar  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '297'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0109.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Kafirun  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '298'
+    },
+    
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0110.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah An-Nasr  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '299'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0111.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Masad  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '300'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0112.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Ikhlas  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '301'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0113.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Falaq ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '301'
+    },
+    {
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0114.mp3',
+        coverSrc: './images/reciter/hussary.jpg',
+        name: 'Surah Al-Nas  ',
+        desc: 'Mahmoud-khalil-al-hussary',
+        id: '301'
+    },
+    
 ];
