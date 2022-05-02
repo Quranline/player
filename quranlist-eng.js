@@ -3572,14 +3572,14 @@ export let tharjuma= [
         coverSrc: './images/reciter/hussary.jpg',
         name: 'Surah Al-Falaq ',
         desc: 'Mahmoud-khalil-al-hussary',
-        id: '301'
+        id: '302'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0114.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'Surah Al-Nas  ',
         desc: 'Mahmoud-khalil-al-hussary',
-        id: '301'
+        id: '303'
     },
 
     
