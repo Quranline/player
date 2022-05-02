@@ -1123,665 +1123,665 @@ export let arabic = [
 
 export let tharjuma = [
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0001-Al-fatihah.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0001-Al-fatihah.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'அல்ஃபாத்திஹா  (தோற்றுவாய்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '00'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '01'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '02'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 3.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '03'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 4 ',
         desc: 'Mishary bin Rashid Alafasy',
         id: '04'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 5.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '05'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 6.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '06'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 7.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '07'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 8.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '08'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 9.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '09'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 10.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 10.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 10 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '10'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 11.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 11.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 11 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '11'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 12.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 12.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 12 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '12'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 13.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 13.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 13 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '13'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 14.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 14.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 14 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '14'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 15.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 15.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 15 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '15'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 16.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 16.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 16 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '16'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 17.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 17.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 17 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '17'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 18.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 18.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 18 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '18'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 19.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 19.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 19 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '19'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 20.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 20.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 20 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '20'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0002-Al-baqarah 21.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0002-Al-baqarah 21.mp3',
          coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் பகரா  (பசு மாடு) 21 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '21'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '22'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '23'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '24'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '25'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '26'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '27'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '28'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '29'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '30'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 10.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 10.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 10 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '31'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 11.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 11.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 11 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '32'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0003-Al-imran 12.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0003-Al-imran 12.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல்ஆல இம்ரான்  (இம்ரானின் சந்ததிகள்) 12 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '33'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '34'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '35'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '36'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '37'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '38'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '39'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '40'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '41'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '42'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 10.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 10.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 10 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '43'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 11.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 11.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 11 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '44'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0004-An-nisa 12.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0004-An-nisa 12.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துன்னிஸாவு  (பெண்கள்) 12 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '45'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '46'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '47'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '48'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '49'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '50'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '51'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '52'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '53'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0005-Al-maidah 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0005-Al-maidah 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் மாயிதா  (ஆகாரம்) (உணவு மரவை) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '54'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '55'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '56'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '57'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '58'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '59'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '60'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '61'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '62'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '63'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0006-Al-anam 10.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0006-Al-anam 10.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஆம் (ஆடு, மாடு, ஒட்டகம்) 10 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '64'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '65'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '66'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '67'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '68'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '69'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '70'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '71'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '72'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '73'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 10.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 10.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 10 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '74'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0007-Al-araf 11.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0007-Al-araf 11.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அஃராஃப் (சிகரங்கள்) 11 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '75'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0008-Al-anfal 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0008-Al-anfal 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '76'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0008-Al-anfal 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0008-Al-anfal 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '77'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0008-Al-anfal 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0008-Al-anfal 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '78'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0008-Al-anfal 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0008-Al-anfal 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் அன்ஃபால் (போரில் கிடைத்த வெற்றிப்பொருள்கள்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '79'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '80'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '81'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '82'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '83'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '84'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '85'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 7.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 7.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 7 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '86'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 8.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 8.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 8 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '87'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0009-At-taubah 9.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0009-At-taubah 9.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துத் தவ்பா (மனவருந்தி மன்னிப்பு தேடுதல்) 9 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '88'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '89'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '90'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 3.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 3.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 3 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '91'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 4.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 4.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 4 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '92'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 5.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 5.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 5 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '93'
     },
     {
-        audioSrc: 'https: //quranline.github.io/qurantharjumatamil/0010- -Yunus 6.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0010- -Yunus 6.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்து யூனுஸ் (நபி) 6 ',
         desc: 'Mahmoud-khalil-al-hussary',
