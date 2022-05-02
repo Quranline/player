@@ -14,10 +14,11 @@
 </head>
 
 <body>
-   
+
 
     <div class="container">
-        <a href="indextam.html"> <button class="language" data-num="0" ><i class="fa fa-language" aria-hidden="true"></i></button></a>
+        <a href="indextam.html"> <button class="language" data-num="0"><i class="fa fa-language"
+                    aria-hidden="true"></i></button></a>
         <span id="theme-text">THEMES</span>
         <img src="./images/theme-logo.gif" id="theme-logo" alt="">
         <div id="theme-container">
@@ -25,17 +26,23 @@
         </div>
         <div>
             <img src="images/more.png" class="img-more">
-            <ol id="more" >
-                <li><a href="index.html" class="anchor"><i class="fa fa-home" aria-hidden="true"></i> &nbsp Home</a></li>
+            <ol id="more">
+                <li><a href="index.html" class="anchor"><i class="fa fa-home" aria-hidden="true"></i> &nbsp Home</a>
+                </li>
                 <li><a href="about.html" class="anchor"><i class="fa fa-info-circle" aria-hidden="true"></i> &nbsp
                         About</a></li>
-                <li><a href="UpdateSoon.html" class="anchor"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp Contact</a></li>
-                <li><a href="UpdateSoon.html" class="anchor"><i class="fa fa-user" aria-hidden="true"></i> &nbsp Account</a></li>
-                <li><a href="https://drive.google.com/file/d/1rdysMMsgxA20Aj1CLKY_JzBXqE9qMXgw/view?usp=sharing" class="anchor" ><i class="fa fa-download" aria-hidden="true"></i> Quran-Arabic </a></li>
-                <li><a href="https://drive.google.com/file/d/1SJo3fIzXZ9y7uB7TLYR-nCa_7YKqzxAY/view?usp=sharing" class="anchor" ><i class="fa fa-download" aria-hidden="true"></i> Quran-Tamil  </a></li>
-                <li><a href="UpdateSoon.html" class="anchor" ><i class="fa fa-youtube-play" aria-hidden="true"></i> Quran video recitation  </a></li>
+                <li><a href="UpdateSoon.html" class="anchor"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp
+                        Contact</a></li>
+                <li><a href="UpdateSoon.html" class="anchor"><i class="fa fa-user" aria-hidden="true"></i> &nbsp
+                        Account</a></li>
+                <li><a href="https://drive.google.com/file/d/1rdysMMsgxA20Aj1CLKY_JzBXqE9qMXgw/view?usp=sharing"
+                        class="anchor"><i class="fa fa-download" aria-hidden="true"></i> Quran-Arabic </a></li>
+                <li><a href="https://drive.google.com/file/d/1SJo3fIzXZ9y7uB7TLYR-nCa_7YKqzxAY/view?usp=sharing"
+                        class="anchor"><i class="fa fa-download" aria-hidden="true"></i> Quran-Tamil </a></li>
+                <li><a href="UpdateSoon.html" class="anchor"><i class="fa fa-youtube-play" aria-hidden="true"></i> Quran
+                        video recitation </a></li>
 
-        
+
         </div>
 
 
@@ -64,7 +71,13 @@
             </header>
             <div class="small-container">
 
-                <label id="playlist-label" class="label">Playlist</label>
+
+                <select class="select-label" id="select-option">
+                    <option value="arabic" >Arabic</option>
+                    <option value="tharjuma" >Tamil Tharjuma</option>
+                </select>
+
+
                 <button id="refresh-button"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
 
                 <div class="search-div">
@@ -87,21 +100,23 @@
                             <div class="slider-pin"></div>
                         </div>
                     </div>
-                 
+
                     <div class="event">
                         <i class="fa fa-step-backward event-prev"></i>
                         <i class="fa fa-play event-playpause"></i>
                         <i class="fa fa-step-forward event-next"></i>
                         <i class="fa fa-volume-up event-muteunmute"></i>
-                        <label class="checkbox"><input type="checkbox" id="auto-Play" data-check="0" placeholder="sajaath">
-                           <small>Auto</small> 
+                        <label class="checkbox"><input type="checkbox" id="auto-Play" data-check="0"
+                                placeholder="sajaath">
+                            <small>Auto</small>
                         </label>
                         <div class="finder">
                             <input class="input" type="number" id="find-min" placeholder="0" />:<input class="input"
                                 type="number" id="find-sec" placeholder="0" />
-                            <button id="finder" class="finder-btn" type="button">Skip <i class="fa fa-forward" aria-hidden="true"></i></button>
+                            <button id="finder" class="finder-btn" type="button">Skip <i class="fa fa-forward"
+                                    aria-hidden="true"></i></button>
                         </div>
-                    
+
 
 
 

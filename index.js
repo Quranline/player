@@ -1,4 +1,9 @@
-import { tracks } from './quranlist-eng.js';
+import { arabic } from './quranlist-eng.js';
+import { tharjuma } from './quranlist-eng.js';
+
+let tracks = arabic;
+
+
 
 // ----------------variables---------------
 const currentTrackImage = document.querySelector('header img');
@@ -14,7 +19,9 @@ let trackDuration = document.querySelector('.count-final');
 const progress = document.querySelector('.slider-progress');
 const findMin = document.querySelector("input#find-min");
 const findSec = document.querySelector("input#find-sec");
-const autoplay =  document.getElementById('auto-Play');
+const autoplay = document.getElementById('auto-Play');
+
+const select = document.querySelector("#select-option");
 
 
 let input = document.querySelector('#input-value');
@@ -29,20 +36,44 @@ trackDuration.innerHTML = '--:--';
 
 
 document.addEventListener('DOMContentLoaded', () => {
-   function test(){
-    
-    console.log(text);
-   }
-   
-   
+
+
+    select.addEventListener('change', () => {
+        let playlist = document.querySelector('ul#ul-of-listTags');
+        playlist.innerHTML = "";
+        let selectValue = select.value;
+        switch (selectValue) {
+            case 'arabic':
+                for (let track of arabic) {
+                    pushList(playlist, track);
+                }
+
+            
+                tracks = arabic;
+                break;
+            case 'tharjuma':
+                for (let track of tharjuma) {
+                    pushList(playlist, track);
+                }
+        
+                tracks = tharjuma;
+                break;
+        }
+
+
+    });
+
+
+
+
     autoPlay()
     function autoPlay() {
 
         autoplay.addEventListener('change', e => {
             if (e.target.checked) {
-               
-            
-                let text = document.getElementById('auto-Play').setAttribute("data-check",1)
+
+
+                let text = document.getElementById('auto-Play').setAttribute("data-check", 1)
                 console.log("Auto play On")
             }
         })
@@ -60,7 +91,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.small-container').style.color = "#fbffa3";
         document.querySelector('.count').style.color = "#fbffa3";
 
-
+        document.querySelector('.select-label').style.background = "#083836";
+        document.querySelector('.search-div').style.background = "#083836";
         document.querySelector('.language').style.background = "#083836";
         document.querySelector('body').style.background = "#083836";
         document.querySelector('.search-div input ').style.background = "#083836";
@@ -82,6 +114,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.small-container').style.color = "#f6e1b8";
         document.querySelector('.count').style.color = "#f6e1b8";
 
+        document.querySelector('.search-div').style.background = "#333644";
+        document.querySelector('.select-label').style.background = "#333644";
         document.querySelector('.language').style.background = "#333644";
         document.querySelector('.search-div input ').style.background = "#333644";
         document.querySelector('.search-div button').style.background = "#333644";
@@ -110,7 +144,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.small-container').style.color = "#f6e1b8";
         document.querySelector('.count').style.color = "#f6e1b8";
 
-
+        document.querySelector('.search-div').style.background = "#001f3f";
+        document.querySelector('.select-label').style.background = "#001f3f";
         document.querySelector('.language').style.background = "#001f3f";
         document.querySelector('body').style.background = "#001f3f";
         document.querySelector('.search-div input ').style.background = "#001f3f";
@@ -120,7 +155,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
         document.querySelector('footer').style.boxShadow = "0px 0px 5px #ffd717";
-        document.querySelector('#playlist-label').remove('::before');
     }
     // theme3()
 
@@ -136,7 +170,8 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelector('.small-container').style.color = "#f2f2f2";
         document.querySelector('.count').style.color = "#f2f2f2";
 
-
+        document.querySelector('.search-div').style.background = "#222831";
+        document.querySelector('.select-label').style.background = "#222831";
         document.querySelector('.language').style.background = "#222831";
         document.querySelector('body').style.background = "#222831";
         document.querySelector('.search-div input ').style.background = "#222831";
@@ -202,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
         selectTheme()
     })
 
-
+    
     function selectTheme() {
 
         let images = document.getElementsByClassName('theme-select');
@@ -317,9 +352,11 @@ document.addEventListener('DOMContentLoaded', () => {
         (function (id) {
             li.addEventListener(
                 'click', () => {
+                    console.log('clicked id', id)
                     playSelectedTrack(id);
-                    
-                    footer.style.visibility="visible";
+
+                    footer.style.visibility = "visible";
+        
 
                 },
                 false
@@ -327,12 +364,11 @@ document.addEventListener('DOMContentLoaded', () => {
         })(trackedValue.id);
     }
 
-    let tracklist = tracks;
 
     // adding playlist to page
 
     (function addPlaylist() {
-        for (let track of tracklist) {
+        for (let track of tracks) {
             pushList(document.querySelector('ul'), track);
         }
     })();
@@ -342,14 +378,18 @@ document.addEventListener('DOMContentLoaded', () => {
     let trackId = 0;
 
     const loadTrack = (songId) => {
+        console.log('working')
 
-        const song = tracklist.find((track) => track.id == songId);
+        const song = tracks.find((track) => track.id == songId);
 
         const { audioSrc, coverSrc, name, desc } = song;
         currentTrackName.innerText = name;
         currentTrackDesc.innerText = desc;
         currentTrackAudio.src = audioSrc;
         currentTrackImage.src = coverSrc;
+
+
+   
     };
 
     // loadTrack(trackId);
@@ -371,6 +411,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const playSelectedTrack = (songId) => {
+        // debugger
         trackId = songId;
         loadTrack(songId);
         initFindMaxValues();
@@ -394,7 +435,7 @@ document.addEventListener('DOMContentLoaded', () => {
         trackId--;
 
         if (trackId < 0) {
-            trackId = tracklist.length - 1;
+            trackId = tracks.length - 1;
         }
         loadTrack(trackId);
         playTrack();
@@ -403,9 +444,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const nextTrack = () => {
+        // debugger
         trackId++;
 
-        if (trackId > tracklist.length - 1) {
+        if (trackId > tracks.length - 1) {
             trackId = 0;
         }
         loadTrack(trackId);
@@ -456,9 +498,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (percent == 100) {
 
-            if(text == 0){
+            if (text == 0) {
                 console.log('Auto play OFF');
-            }else if(text == 1){
+            } else if (text == 1) {
                 nextTrack();
             }
         }
@@ -514,9 +556,9 @@ document.addEventListener('DOMContentLoaded', () => {
         let min = Number(findMin.value);
         let sec = Number(findSec.value);
 
-        if(sec%60 > 0){
-                min += Math.floor(sec/60);
-                sec = sec%60;
+        if (sec % 60 > 0) {
+            min += Math.floor(sec / 60);
+            sec = sec % 60;
         }
 
         const minuteMax = Number(findMin.getAttribute("max"));
@@ -526,8 +568,8 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        if ((minuteMax*60)+secondMax < sec) {
-            
+        if ((minuteMax * 60) + secondMax < sec) {
+
             alert(`Audio maximum duration is reached. (${secondMax})`);
             return;
         }
@@ -548,7 +590,7 @@ let anchor = document.getElementsByClassName("anchor");
 
 for (let i = 0; i < anchor.length; i++) {
 
-    anchor[i].style.display="none";
+    anchor[i].style.display = "none";
 }
 menu.style.maxHeight = "0px";
 
@@ -559,7 +601,7 @@ function toggleMenu() {
     if (menu.style.maxHeight == "0px") {
         menu.style.maxHeight = "200px";
         for (let i = 0; i < anchor.length; i++) {
-            anchor[i].style.display="";
+            anchor[i].style.display = "";
             anchor[i].style.color = "black";
         }
 
@@ -567,7 +609,7 @@ function toggleMenu() {
 
         menu.style.maxHeight = "0px"
         for (let i = 0; i < anchor.length; i++) {
-            anchor[i].style.display="none";
+            anchor[i].style.display = "none";
             anchor[i].style.color = "black";
         }
     }
