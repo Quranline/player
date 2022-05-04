@@ -3,8 +3,6 @@ import { tharjuma } from './quranlist-tam.js';
 
 let tracks = arabic;
 
-
-
 // ----------------variables---------------
 const currentTrackImage = document.querySelector('header img');
 const currentTrackName = document.querySelector('header h2');
@@ -20,18 +18,11 @@ const progress = document.querySelector('.slider-progress');
 const findMin = document.querySelector("input#find-min");
 const findSec = document.querySelector("input#find-sec");
 const autoplay = document.getElementById('auto-Play');
-
 const select = document.querySelector("#select-option");
-
-
 let input = document.querySelector('#input-value');
 let search = document.querySelector('.search-div button');
-
 let footer = document.querySelector("footer");
-
 trackDuration.innerHTML = '--:--';
-
-
 // ----------------variables---------------
 
 
@@ -185,16 +176,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     // theme4()
 
-    function themeChanger() {
-
-
-
-
-
-
-
-    }
-
     function closeTrigger() {
         let closeBtn = document.querySelector('.close-trigger');
 
@@ -310,16 +291,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     }
-
-    // refreshButton.addEventListener('click', () => {
-    //     let playlist = document.querySelector('ul#ul-of-listTags');
-    //     for (let track of tracks) {
-    //         pushList(playlist, track);
-    //     }
-    //     input.value = "";
-    //     document.querySelector('#playlist-label').style.visibility = 'visible';
-    //     refreshButton.style.visibility = 'hidden';
-    // })
 
     function refreshPage() {
         window.location.reload();

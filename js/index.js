@@ -3,8 +3,6 @@ import { tharjuma } from './quranlist-eng.js';
 
 let tracks = arabic;
 
-
-
 // ----------------variables---------------
 const currentTrackImage = document.querySelector('header img');
 const currentTrackName = document.querySelector('header h2');
@@ -20,18 +18,11 @@ const progress = document.querySelector('.slider-progress');
 const findMin = document.querySelector("input#find-min");
 const findSec = document.querySelector("input#find-sec");
 const autoplay = document.getElementById('auto-Play');
-
 const select = document.querySelector("#select-option");
-
-
 let input = document.querySelector('#input-value');
 let search = document.querySelector('.search-div button');
-
 let footer = document.querySelector("footer");
-
 trackDuration.innerHTML = '--:--';
-
-
 // ----------------variables---------------
 
 
@@ -48,14 +39,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     pushList(playlist, track);
                 }
 
-            
+
                 tracks = arabic;
                 break;
             case 'tharjuma':
                 for (let track of tharjuma) {
                     pushList(playlist, track);
                 }
-        
+
                 tracks = tharjuma;
                 break;
         }
@@ -78,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         })
     }
+
 
     // Theme function
 
@@ -185,15 +177,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     // theme4()
 
-    function themeChanger() {
-
-
-
-
-
-
-
-    }
 
     function closeTrigger() {
         let closeBtn = document.querySelector('.close-trigger');
@@ -203,6 +186,7 @@ document.addEventListener('DOMContentLoaded', () => {
             emptyContainer()
         })
     }
+
 
     function emptyContainer() {
         document.querySelector('#theme-container').innerHTML = "";
@@ -237,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
         selectTheme()
     })
 
-    
+
     function selectTheme() {
 
         let images = document.getElementsByClassName('theme-select');
@@ -267,9 +251,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             });
         }
-
-
-
 
     }
 
@@ -356,7 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     playSelectedTrack(id);
 
                     footer.style.visibility = "visible";
-        
+
 
                 },
                 false
@@ -389,7 +370,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentTrackImage.src = coverSrc;
 
 
-   
+
     };
 
     // loadTrack(trackId);
@@ -400,9 +381,6 @@ document.addEventListener('DOMContentLoaded', () => {
         currentTrackAudio.play();
     }
 
-
-
-
     const pauseTrack = () => {
         currentTrackPlayPause.classList.add('fa-play');
         currentTrackPlayPause.classList.remove('fa-pause');
@@ -411,12 +389,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const playSelectedTrack = (songId) => {
-        // debugger
         trackId = songId;
         loadTrack(songId);
         initFindMaxValues();
         playTrack();
-
     };
 
 
@@ -444,7 +420,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const nextTrack = () => {
-        // debugger
         trackId++;
 
         if (trackId > tracks.length - 1) {
@@ -453,8 +428,6 @@ document.addEventListener('DOMContentLoaded', () => {
         loadTrack(trackId);
         playTrack();
     }
-
-
 
 
     const muteUnmuteTrack = () => {
@@ -544,6 +517,7 @@ document.addEventListener('DOMContentLoaded', () => {
     currentTrackMuteUnmute.addEventListener('click', () => muteUnmuteTrack());
 
     currentTrackPrevious.addEventListener('click', () => previousTrack());
+
     currentTrackNext.addEventListener('click', () => nextTrack());
 
     currentTrackAudio.addEventListener('timeupdate', () => updateProgress());
@@ -615,7 +589,6 @@ function toggleMenu() {
     }
 
 }
-
 
 
 function changeCss() {
