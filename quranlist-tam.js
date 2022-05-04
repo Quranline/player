@@ -849,7 +849,7 @@ export let arabic = [
     {
         audioSrc: "https://quranline.github.io/quran_audio/076-al-insan.mp3",
         coverSrc: "./images/reciter/mishary.jpg",
-        name: "Surah Al-Insan ",
+        name: "ஸூரத்துத் தஹ்ர் (காலம்)",
         desc: "Mishary bin Rashid Alafasy",
         id: "121"
     },
@@ -2710,7 +2710,7 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0044 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ad-Dukhan 1 ',
+        name: 'ஸூரத்துத் துகான் (புகை) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '218'
     },
@@ -2718,14 +2718,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0044 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ad-Dukhan 2 ',
+        name: 'ஸூரத்துத் துகான் (புகை) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '219'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0045 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Jathiya 1 ',
+        name: 'ஸூரத்துல் ஜாஸியா (முழந்தாளிடுதல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '220'
     },
@@ -2733,14 +2733,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0045 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Jathiya 2 ',
+        name: 'ஸூரத்துல் ஜாஸியா (முழந்தாளிடுதல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '221'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0046 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Ahqaf 1 ',
+        name: 'ஸூரத்துல் அஹ்காஃப் (மணல் திட்டுகள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '222'
     },
@@ -2748,14 +2748,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0046 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Ahqaf 2 ',
+        name: 'ஸூரத்துல் அஹ்காஃப் (மணல் திட்டுகள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '223'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0047 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Muhammad 1 ',
+        name: 'ஸூரத்து முஹம்மது(ஸல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '224'
     },
@@ -2763,14 +2763,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0047 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Muhammad 2 ',
+        name: 'ஸூரத்து முஹம்மது(ஸல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '225'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0048 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Fath 1 ',
+        name: 'ஸூரத்துல் ஃபத்ஹ் (வெற்றி) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '226'
     },
@@ -2778,14 +2778,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0048 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Fath 2 ',
+        name: 'ஸூரத்துல் ஃபத்ஹ் (வெற்றி) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '227'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0049 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hujurat 1 ',
+        name: 'ஸூரத்துல் ஹுஜுராத் (அறைகள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '228'
     },
@@ -2793,14 +2793,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0049 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hujurat 2 ',
+        name: 'ஸூரத்துல் ஹுஜுராத் (அறைகள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '229'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0050 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Qaf 1 ',
+        name: 'ஸூரத்து ஃகாஃப் 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '230'
     },
@@ -2808,14 +2808,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0050 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Qaf 2 ',
+        name: 'ஸூரத்து ஃகாஃப் 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '231'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0051 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Adh-Dhariyat 1 ',
+        name: 'ஸூரத்துத் தாரியாத் (புழுதியைக் கிளப்பும் காற்றுகள்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '232'
     },
@@ -2823,21 +2823,21 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0051 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Adh-Dhariyat 2 ',
+        name: 'ஸூரத்துத் தாரியாத் (புழுதியைக் கிளப்பும் காற்றுகள்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '233'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0052.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Tur ',
+        name: 'ஸூரத்துத் தூர் (மலை) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '234'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0053.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah An-Najm ',
+        name: 'ஸூரத்துந்நஜ்ம் (நட்சத்திரம்) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '235'
     },
@@ -2845,7 +2845,7 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0054 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qamar 1 ',
+        name: 'ஸூரத்துல் கமர் (சந்திரன்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '236'
     },
@@ -2853,14 +2853,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0054 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qamar 2 ',
+        name: 'ஸூரத்துல் கமர் (சந்திரன்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '237'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ar-Rahman 1 ',
+        name: 'ஸூரத்துர் ரஹ்மான் (அளவற்ற அருளாளன்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '238'
     },
@@ -2868,14 +2868,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ar-Rahman 2 ',
+        name: 'ஸூரத்துர் ரஹ்மான் (அளவற்ற அருளாளன்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '239'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0056 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Waqiah 1 ',
+        name: 'ஸூரத்துல் வாகிஆ (மாபெரும் நிகழ்ச்சி) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '240'
     },
@@ -2883,14 +2883,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0056 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Waqiah 2 ',
+        name: 'ஸூரத்துல் வாகிஆ (மாபெரும் நிகழ்ச்சி) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '241'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0057 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hadid 1 ',
+        name: 'ஸூரத்துல் ஹதீத்(இரும்பு) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '242'
     },
@@ -2898,14 +2898,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0057 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hadid 2 ',
+        name: 'ஸூரத்துல் ஹதீத்(இரும்பு) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '243'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0058 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mujadila 1 ',
+        name: 'ஸூரத்துல் முஜாதலா (தர்க்கித்தல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '244'
     },
@@ -2913,14 +2913,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0058 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mujadila 2 ',
+        name: 'ஸூரத்துல் முஜாதலா (தர்க்கித்தல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '245'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0059 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hashr 1 ',
+        name: 'ஸூரத்துல் ஹஷ்ர் (ஒன்று கூட்டுதல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '246'
     },
@@ -2928,14 +2928,14 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0059 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Hashr 2 ',
+        name: 'ஸூரத்துல் ஹஷ்ர் (ஒன்று கூட்டுதல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '247'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0060 1.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mumtahanah 1 ',
+        name: 'ஸூரத்துல் மும்தஹினா (பரிசோதித்தல்) 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '248'
     },
@@ -2943,7 +2943,7 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0060 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mumtahanah 2 ',
+        name: 'ஸூரத்துல் மும்தஹினா (பரிசோதித்தல்) 2 ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '249'
     },
@@ -2957,77 +2957,77 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0061.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah As-Saf  ',
+        name: 'ஸூரத்துஸ் ஸஃப்ஃபு (அணிவகுப்பு)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '250'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0062.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Jumuah  ',
+        name: 'ஸூரத்துல் ஜுமுஆ (வெள்ளிக் கிழமை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '251'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0063.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Munafiqun  ',
+        name: '	ஸூரத்துல் முனாஃபிஃகூன் (நயவஞ்சகர்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '252'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0064.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Taghabun  ',
+        name: '	ஸூரத்துத் தஃகாபுன் (நஷ்டம்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '253'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0065.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Talaq  ',
+        name: 'ஸூரத்துத் தலாஃக் (விவாகரத்து)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '254'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0066.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Tahrim  ',
+        name: 'ஸூரத்துத் தஹ்ரீம் (விலக்குதல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '255'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0067.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mulk  ',
+        name: 'ஸூரத்துல் முல்க் (ஆட்சி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '256'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0068.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qalam  ',
+        name: 'ஸூரத்துல் கலம் (எழுதுகோல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '257'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0069.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Haqqah  ',
+        name: 'ஸூரத்துல் ஹாஃக்ஃகா (நிச்சயமானது)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '258'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0070.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Maarij  ',
+        name: 'ஸூரத்துல் மஆரிஜ் (உயர்வழிகள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '259'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0071.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Nuh  ',
+        name: 'ஸூரத்து நூஹ்',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '260'
     },
@@ -3037,105 +3037,105 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0072.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Jinn  ',
+        name: 'ஸூரத்துல் ஜின்னு (ஜின்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '261'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0073.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Muzammil ',
+        name: 'ஸூரத்துல் முஸ்ஸம்மில் (போர்வை போர்த்தியவர்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '262'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0074.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Muddaththir  ',
+        name: 'ஸூரத்துல் முத்தஸ்ஸிர் (போர்த்திக்கொண்டிருப்பவர்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '263'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0075.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qiyamah  ',
+        name: 'ஸூரத்துல் கியாமா (மறுமை நாள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '264'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0076.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Insan  ',
+        name: '	ஸூரத்துத் தஹ்ர் (காலம்) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '265'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0077 2.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mursalat ',
+        name: 'ஸூரத்துல் முர்ஸலாத் (அனுப்பப்படுபவை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '266'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0078.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah An-Naba  ',
+        name: 'ஸூரத்துந் நபா (பெரும் செய்தி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '267'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0079.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah An-Naziat  ',
+        name: 'ஸூரத்துந் நாஜிஆத் (பறிப்பவர்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '268'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0080.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Abasa ',
+        name: 'ஸூரத்து அபஸ (கடு கடுத்தார்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '269'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0081.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Takwir ',
+        name: 'ஸூரத்துத் தக்வீர் (சுருட்டுதல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '270'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0082.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Infitar  ',
+        name: 'ஸூரத்துல் இன்ஃபிதார் (வெடித்துப் போதல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '271'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0083.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Mutaffin  ',
+        name: 'ஸூரத்துல் முதஃப்ஃபிஃபீன் (அளவு நிறுவையில் மோசம் செய்தல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '272'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0084.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Inshiqaq ',
+        name: 'ஸூரத்துல் இன்ஷிகாக் (பிளந்து போதல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '273'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0085.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Buruj  ',
+        name: 'ஸூரத்துல் புரூஜ் (கிரகங்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '274'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0086.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Tariq  ',
+        name: 'ஸூரத்துத் தாரிஃக் (விடிவெள்ளி) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '275'
     },
@@ -3146,49 +3146,49 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0087.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Ala  ',
+        name: 'ஸூரத்துல் அஃலா (மிக்க மேலானவன்) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '276'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0088.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Ghashiyah  ',
+        name: 'ஸூரத்துல் காஷியா (மூடிக் கொள்ளுதல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '277'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0089.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Fajr ',
+        name: 'ஸூரத்துல் ஃபஜ்ரி (விடியற்காலை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '278'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0090.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Balad  ',
+        name: 'ஸூரத்துல் பலத்(நகரம்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '279'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0091.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ash-Shams  ',
+        name: 'ஸூரத்துஷ் ஷம்ஸ் (சூரியன்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '280'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0092.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Layl ',
+        name: 'ஸூரத்துல் லைல்(இரவு)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '281'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0093.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ad-Duhaa  ',
+        name: 'ஸூரத்துள் ளுஹா (முற்பகல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '282'
     },
@@ -3196,63 +3196,63 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0094.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Ash-Sharh  ',
+        name: 'ஸூரத்து அலம் நஷ்ரஹ் (விரிவாக்கல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '283'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0095.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Tin  ',
+        name: 'ஸூரத்துத் தீன் (அத்தி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '284'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0096.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Alaq  ',
+        name: 'ஸூரத்துல் அலஃக் (இரத்தக்கட்டி) ',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '285'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0097.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qadr ',
+        name: 'ஸூரத்துல் கத்ரி (கண்ணியமிக்க இரவு)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '286'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0098.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Bayyinah ',
+        name: 'ஸூரத்துல் பய்யினா (தெளிவான ஆதாரம்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '287'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0099.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Az-Zalzalah  ',
+        name: 'ஸூரத்துஜ் ஜில்ஜால் (அதிர்ச்சி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '288'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0100.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Adiyat  ',
+        name: 'ஸூரத்துல் ஆதியாத்தி (வேகமாகச் செல்லுபவை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '289'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0101.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Qariah  ',
+        name: 'ஸூரத்து அல்காரிஆ (திடுக்கிடச் செய்யும் நிகழ்ச்சி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '290'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0102.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah At-Takathur  ',
+        name: 'ஸூரத்துத் தகாஸுர் (பேராசை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '291'
     },
@@ -3261,49 +3261,49 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0103.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Asr  ',
+        name: 'Sஸூரத்துல் அஸ்ரி (காலம்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '292'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0104.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Humazah  ',
+        name: 'ஸூரத்துல் ஹுமஜா (புறங்கூறல்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '293'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0105.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Fil ',
+        name: 'ஸூரத்துல் ஃபீல் (யானை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '294'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0106.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Quraysh  ',
+        name: 'ஸூரத்து குறைஷின் (குறைஷிகள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '295'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0107.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Maun  ',
+        name: 'ஸூரத்துல் மாஊன் (அற்பப் பொருட்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '296'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0108.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Kawthar  ',
+        name: '	ஸூரத்துல் கவ்ஸர் (மிகுந்த நன்மைகள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '297'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0109.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Kafirun  ',
+        name: 'ஸூரத்துல் காஃபிரூன் (காஃபிர்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '298'
     },
@@ -3311,35 +3311,35 @@ export let tharjuma = [
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0110.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah An-Nasr  ',
+        name: 'ஸூரத்துந் நஸ்ர் (உதவி)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '299'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0111.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Masad  ',
+        name: 'ஸூரத்துல் லஹப் (ஜுவாலை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '300'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0112.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Ikhlas  ',
+        name: 'ஸூரத்துல் இஃக்லாஸ் (ஏகத்துவம்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '301'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0113.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Falaq ',
+        name: 'ஸூரத்துல் ஃபலக் (அதிகாலை)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '301'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0114.mp3',
         coverSrc: './images/reciter/hussary.jpg',
-        name: 'Surah Al-Nas  ',
+        name: 'ஸூரத்துந் நாஸ் (மனிதர்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
         id: '301'
     },
