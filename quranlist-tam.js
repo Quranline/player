@@ -3334,14 +3334,14 @@ export let tharjuma = [
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துல் ஃபலக் (அதிகாலை)',
         desc: 'Mahmoud-khalil-al-hussary',
-        id: '301'
+        id: '302'
     },
     {
         audioSrc: 'https://quranline.github.io/qurantharjumatamil/0114.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'ஸூரத்துந் நாஸ் (மனிதர்கள்)',
         desc: 'Mahmoud-khalil-al-hussary',
-        id: '301'
+        id: '303'
     },
     
 ];
