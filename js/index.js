@@ -180,34 +180,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     // theme4()
 
-    function theme5() {
-
-        document.querySelector('.event').style.color = "#f6e1b8";
-        document.querySelector('.finder-btn').style.color = "#f6e1b8";
-        document.querySelector('.input').style.color = "#f6e1b8";
-        document.querySelector('footer').style.color = "#84577c";
-        document.querySelector('.count-current').style.color = "#f6e1b8";
-        document.querySelector('header h2').style.color = "black";
-        document.querySelector('header p').style.color = "#ffd717";
-        document.querySelector('.small-container').style.color = "#f6e1b8";
-        document.querySelector('.count').style.color = "#f6e1b8";
-        document.querySelector('.language').style.color = "black";
-
-
-        document.querySelector('.search-div').style.background = "#001f3f";
-        document.querySelector('.select-label').style.background = "#001f3f";
-        document.querySelector('.language').style.background = "#e2ded3";
-        document.querySelector('body').style.background = "#e2ded3";
-        document.querySelector('.search-div input ').style.background = "#e2ded3";
-        document.querySelector('.search-div button').style.background = "#e2ded3";
-        document.querySelector('.slider-progress ').style.background = "#c65f63";
-        document.querySelector('footer').style.background = "#083358";
-
-
-        document.querySelector('footer').style.boxShadow = "0px 0px 5px #ffd717";
-    
-
-    }
 
     function closeTrigger() {
         let closeBtn = document.querySelector('.close-trigger');
@@ -243,9 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
     <span data-id="4" class="theme-select"><img src="./images/themes/theme3.png" class="theme-img" alt="">
         <p><small>Sunny</small></p>
     </span>
-    <span data-id="5" class="theme-select"><img src="./images/themes/theme3.png" class="theme-img" alt="">
-    <p><small>Sunny</small></p>
-</span>
+
 
 </div>
     
