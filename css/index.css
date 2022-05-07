@@ -760,7 +760,24 @@ ol>li>a {
 }
 
 
+        .admin {
+            position: absolute;
+            top: 20%;
+            left: 15px;
+        }
 
+        .sajaath {
+            border-radius: 45%;
+            height: 40px;
+        }
+
+        .code {
+            height: 15px;
+            position: absolute;
+            top: 30px;
+            left: 0px;
+
+        }
 
 
 
