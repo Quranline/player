@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <title>Quranline.com/about</title>
+</head>
+
+<body class="body-about">
+
+    <header id="header" class="hrStyle1">
+        <img src="../images/about/sajaath.jpg" class="currentImg about-img" alt="Current Playing Track">
+
+        <h2>Mohamed Sajaath</h2>
+        <p>Developer</p>
+    </header>
+    <div class="container-social hrStyle2">
+        <div class="row">
+            <div class="col-3">
+                <a href="https://api.whatsapp.com/send?phone=94775265646"><img src="../images/social/whatsapp.png" alt="whatsapp" class="social-link"></a>
+            </div>
+            <div class="col-3">
+                <a href="https://wa.me/message/6UM7KZTIET6OM1"><img src="../images/social/whatsapp-busin.png" alt="whatsapp" class="social-link"></a>
+            </div>
+            <div class="col-3">
+                <a href=""><img src="../images/social/twitter.png" alt="whatsapp" class="social-link"></a>
+            </div>
+            <div class="col-3">
+                <a href="https://www.linkedin.com/in/mohamed-sajaath-b58a04239/"><img src="../images/social/linkedin.png" alt="whatsapp" class="social-link"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="about">
+        <h3>seeking to launch a career designing web applications.<br> Familiar with attractive and responsive<br> web
+            designing.</h3>
+    </div>
+
+
+
+
+    <style>
+        .body-about {
+            height: 100vh;
+            animation: myAnimate2 5s;
+        }
+
+        .hrStyle1::after {
+            content: '';
+            position: absolute;
+            left: 5%;
+            margin-top: 0px;
+            background-color: #585858;
+            height: 1px;
+            width: 90%;
+        }
+
+
+
+        .container-social {
+            position: absolute;
+            top: 30%;
+            animation: myAnimate3 5s;
+
+        }
+
+
+
+        .container-social .row {
+
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .social-link {
+            height: 23px;
+            border-radius: 10px;
+            filter: grayscale(1);
+
+        }
+
+        .social-link:hover {
+            height: 28px;
+            filter: grayscale(0);
+        }
+
+        .about-img {
+            box-shadow: 0px 0px 150px white;
+        }
+
+        .about-img:hover {
+            box-shadow: 0px 0px 100px white;
+        }
+
+        h3 {
+            margin-top: 100px;
+            color: white;
+            font-size: 12px;
+            text-align: center;
+            opacity: 0.9;
+
+        }
+
+
+
+
+
+        @keyframes myAnimate2 {
+            0% {
+                opacity: 0.2;
+            }
+
+            25% {
+                opacity: 0.6;
+            }
+
+            50% {
+                opacity: 0.9;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        @keyframes myAnimate3 {
+            0% {
+                opacity: 0.2;
+                filter: grayscale(1);
+            }
+
+            25% {
+                opacity: 0.6;
+                filter: grayscale(0.8);
+            }
+
+            50% {
+                opacity: 0.9;
+                filter: grayscale(0.6);
+            }
+
+            100% {
+                opacity: 1;
+                filter: grayscale(0);
+            }
+        }
+
+
+
+        @media (min-width:1025px) {
+
+            .container-social {
+
+                background-color: #000000;
+                filter: grayscale(1);
+
+            }
+
+            .container-social:hover {
+                filter: grayscale(0);
+                box-shadow: 0px 0px 0px white;
+            }
+
+
+        }
+
+
+
+        @media only screen and (max-width: 600px) {
+            body {
+                height: auto;
+            }
+
+
+            .container-social {
+                position: absolute;
+                left: 21%;
+                width: 60%;
+            }
+
+            .hrStyle2::after {
+                visibility: hidden;
+                content: '';
+                position: absolute;
+                top: -20px;
+                right: -18%;
+                margin-top: 0px;
+                background-color: #585858;
+                height: 1px;
+                width: 250px;
+            }
+        }
+    </style>
+
+    <script type="module" src="index.js">
+    </script>
+    <script src="https://use.fontawesome.com/01de1fe131.js">
+    </script>
+</body>
+
+</html>
