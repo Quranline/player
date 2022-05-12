@@ -3096,7 +3096,7 @@ export let tharjuma= [
         id: '237'
     },
     {
-        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 1.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 01.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'Surah Ar-Rahman 1 ',
         desc: 'Mahmoud-khalil-al-hussary',
@@ -3104,7 +3104,7 @@ export let tharjuma= [
     },
 
     {
-        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 2.mp3',
+        audioSrc: 'https://quranline.github.io/qurantharjumatamil/0055 02.mp3',
         coverSrc: './images/reciter/hussary.jpg',
         name: 'Surah Ar-Rahman 2 ',
         desc: 'Mahmoud-khalil-al-hussary',

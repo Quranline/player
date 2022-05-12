@@ -289,16 +289,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 pushList(playlist, track);
             }
         }
-        refreshingMov()
+        
 
     })
 
-    function refreshingMov() {
-        document.querySelector('#playlist-label').style.visibility = 'hidden';
-        refreshButton.style.visibility = 'visible';
 
-
-    }
 
     refreshButton.addEventListener('click', () => {
         let playlist = document.querySelector('ul#ul-of-listTags');

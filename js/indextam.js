@@ -281,16 +281,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 pushList(playlist, track);
             }
         }
-        refreshingMov()
+      
 
     })
 
-    function refreshingMov() {
-        document.querySelector('#playlist-label').style.visibility = 'hidden';
-        refreshButton.style.visibility = 'visible';
 
-
-    }
 
     function refreshPage() {
         window.location.reload();
