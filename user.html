@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="shortcut icon" type="image/x-icon" href="images/logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <title>Quranline</title>
+</head>
+
+<body>
+   
+
+<!-- 
+    <a href="./pages/about.html">
+        <span class="admin">
+            <img src="./images/about/sajaath.jpg" alt="sajaath" class="sajaath">
+            <img src="./images/about/plus.png" alt="coding" class="code">
+        </span>
+    </a>  -->
+
+
+
+    <div class="container">
+        <a href="indextam.html"> <button class="language" data-num="0"><i class="fa fa-language"
+                    aria-hidden="true"></i></button></a>
+        <span id="theme-text">THEMES</span>
+        <img src="./images/theme-logo.gif" id="theme-logo" alt="">
+        <div id="theme-container">
+
+        </div>
+        <div>
+            <img src="images/more.png" class="img-more">
+            <ol id="more">
+                <li><a href="index.html" class="anchor"><i class="fa fa-home" aria-hidden="true"></i> &nbsp Home</a>
+                </li>
+                <li><a href="../pages/about.html" class="anchor"><i class="fa fa-info-circle" aria-hidden="true"></i>
+                        &nbsp
+                        About</a></li>
+                <li><a href="../pages/UpdateSoon.html" class="anchor"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp
+                        Contact</a></li>
+                <li><a href="../pages/UpdateSoon.html" class="anchor"><i class="fa fa-user" aria-hidden="true"></i> &nbsp
+                        Account</a></li>
+                <li><a href="https://drive.google.com/file/d/1rdysMMsgxA20Aj1CLKY_JzBXqE9qMXgw/view?usp=sharing"
+                        class="anchor"><i class="fa fa-download" aria-hidden="true"></i> Quran-Arabic </a></li>
+                <li><a href="https://drive.google.com/file/d/1SJo3fIzXZ9y7uB7TLYR-nCa_7YKqzxAY/view?usp=sharing"
+                        class="anchor"><i class="fa fa-download" aria-hidden="true"></i> Quran-Tamil </a></li>
+                <li><a href="../pages/UpdateSoon.html" class="anchor"><i class="fa fa-youtube-play"
+                            aria-hidden="true"></i> Quran
+                        video recitation </a></li>
+
+
+        </div>
+
+
+        <img src="images/top.png" alt="top" id="move-top" />
+
+
+        <section>
+            <header id="header">
+
+
+
+                <div class="count">
+                    <div class="count-final"></div>
+                </div>
+
+                <img src="images/logo.png" class="currentImg" alt="Current Playing Track">
+
+
+                <div class="count">
+                    <div class="count-current">--:--</div>
+                </div>
+
+                <h2>Assalamu Alaikum</h2>
+                <p>www.quranline.com</p>
+
+            </header>
+            <div class="small-container">
+
+
+                <select class="select-label" id="select-option">
+                    <option value="arabic">Arabic</option>
+                    <option value="tharjuma">Tamil Tharjuma</option>
+                </select>
+
+
+                <button id="refresh-button"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
+
+                <div class="search-div">
+                    <span data-tip="Enter surah name ex:fatiha">
+                        <input type="text" placeholder="Search on Playlist" id="input-value" />
+                        <button id="searching-btn"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </span>
+                </div>
+
+
+                <ul id="ul-of-listTags">
+                    <!-- lists pushed from storage.js -->
+                </ul>
+
+
+                <footer>
+
+                    <div class="slider">
+                        <div class="slider-progress">
+                            <div class="slider-pin"></div>
+                        </div>
+                    </div>
+
+                    <div class="event">
+                        <i class="fa fa-step-backward event-prev"></i>
+                        <i class="fa fa-play event-playpause"></i>
+                        <i class="fa fa-step-forward event-next"></i>
+                        <i class="fa fa-volume-up event-muteunmute"></i>
+                        <label class="checkbox"><input type="checkbox" id="auto-Play" data-check="0">
+                            <small>Auto</small>
+                        </label>
+                        <div class="finder">
+                            <input class="input" type="number" id="find-min" placeholder="0" />:<input class="input"
+                                type="number" id="find-sec" placeholder="0" />
+                            <button id="finder" class="finder-btn" type="button">Skip <i class="fa fa-forward"
+                                    aria-hidden="true"></i></button>
+                        </div>
+
+
+
+
+                    </div>
+
+                </footer>
+            </div>
+
+
+        </section>
+
+    </div>
+
+    <audio id="audio"></audio>
+
+    <!-- <script type="module" src="./js/index.min.js">
+    </script> -->
+    <script type="module" src="./js/index.js">
+    </script>
+    <script src="https://use.fontawesome.com/01de1fe131.js">
+    </script>
+</body>
+
+</html>
